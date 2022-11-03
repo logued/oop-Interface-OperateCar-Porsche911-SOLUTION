@@ -1,2 +1,6 @@
-package org.example;public enum Direction {
+package org.example;
+
+public enum Direction {
+    LEFT,
+    RIGHT
 }
